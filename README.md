@@ -1,2 +1,5 @@
-# infdevprojectdawn
-A quality of life mod for the Infdev30062010-1340 version of the minecraft. And just generaly stuff i want to mod in minecraft
+# Minecraft: Project Dawn
+Minecraft: Project Dawn is the quality of life mod for the Infdev. It more like whatifs like the Better than Adventures! So expect stuff from the later stages of the game as well as some new stuff!
+## Installing
+To install the mod you can use the inf-20100630-1340.jar file and override the original in Betacraft, or inject it in inf-20100618 (like in Prism launcher)
+or override the original inf-20100630-1340.jar with the files from the minecraft.zip !
