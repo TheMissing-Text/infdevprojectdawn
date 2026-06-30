@@ -6,4 +6,4 @@ Minecraft: Project Dawn is the Quality of Life mod for the Infdev. It exploring 
 
  **Requitements** — inf-20100630-1340 version 
  
- **Compabilities** — non knewn, because editing a lot of the classes
+ **Compabilities** — unknown, because editing a lot of the classes
