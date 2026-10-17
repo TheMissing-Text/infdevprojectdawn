@@ -13,3 +13,11 @@ Minecraft: Project Dawn is the Quality of Life mod for the Infdev. It exploring 
  For Betacraft you need install the infdev version of release and use inf-20100630-1340 
  
  **Compabilities** — unknown, because editing a lot of the classes
+
+## Paulscode Fix instruction
+
+As now I testing custom paulscode fix for the MultiMC/Prism Launcher.
+
+For Prism Launcher you need to Import Component as Json in Version tab 
+
+For MultiMC you need to Add Empty, use Paulscode as name and org.projectdawn.paulscodefix, then open it with Edit and replace it content with the attached json one
